@@ -17,7 +17,7 @@ cd <name>
 npx degit badstagram/sapphire-template
 ```
 
-### Prerequisite
+### Install Dependencies  
 
 ```sh
 pnpm install
